@@ -4,7 +4,7 @@
 This file is used for intra-sentence relation classificaiton in medical field, consisted of 2183 sentences and 1551 non-repeating sentences. 
 
 # Fields
-The table organized in 5 fields:
+The table organized in 3 fields:
 
 pmid - PMID of the source paper of the sentence
 
