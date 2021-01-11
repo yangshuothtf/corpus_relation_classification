@@ -14,7 +14,7 @@ e2 - second entity
 
 label - category label
 
-sentence - text contains entity 1 and 2 and relation.
+sentence - text contains entity 1, 2 and relation.
 
 # Label types
 There are 9 relations in this corpus, organized in 3 groups.
