@@ -35,7 +35,7 @@ Label 5 - "may be affected by"
 
 Label 6 - "may be induced by"
 
-## Group 3 - relations between "chemical / drug" and "gene"
+## Group 3 - relations between "chemical and drug" / "gene"
 
 Label 7 - "regulates"
 
