@@ -21,15 +21,15 @@ There are 9 relations in this corpus.
 
 Label 1 - "is associated with"
 
-label 2 - "is biomarker of" 
+Label 2 - "is biomarker of" 
 
-label 3 - "affects", these relations are usually between "gene" and "disease"
+Label 3 - "affects", these relations are usually between "gene" and "disease"
 
 Label 4 - "may be treated by"
 
-label 5 - "may be affected by"
+Label 5 - "may be affected by"
 
-label 6 - "may be induced by", these relations are usually between "disease" and "chemical and drug"
+Label 6 - "may be induced by", these relations are usually between "disease" and "chemical and drug"
 
 Label 7 - "regulates"
 
