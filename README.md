@@ -19,7 +19,7 @@ sentence - text contains entity 1 and 2 and relation.
 # Label types
 There are 9 relations in this corpus, organized in 3 groups.
 
-## Group 1 - these relations are usually between "gene" and "disease"
+## Group 1 - relations usually between "gene" and "disease"
 
 Label 1 - "is associated with"
 
@@ -27,7 +27,7 @@ Label 2 - "is biomarker of"
 
 Label 3 - "affects"
 
-## Group 2 - these relations are usually between "disease" and "chemical and drug"
+## Group 2 - relations usually between "disease" and "chemical and drug"
 
 Label 4 - "may be treated by"
 
@@ -35,7 +35,7 @@ Label 5 - "may be affected by"
 
 Label 6 - "may be induced by"
 
-## Group 3 - these relations are usually between "chemical and drug" and "gene"
+## Group 3 - relations usually between "chemical and drug" and "gene"
 
 Label 7 - "regulates"
 
