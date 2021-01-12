@@ -1,7 +1,7 @@
 # corpus for relation classification in medical field
 
 # About
-This file is used for intra-sentence relation classificaiton in medical field, consisted of 2183 sentences and 1551 non-repeating sentences. 
+This file is used for intra-sentence relation classificaiton in medical field. 
 
 # Fields
 The table organized in 3 fields:
